@@ -1,2 +1,1 @@
-# hassos-apps
-My Home Assistant Apps
+# My Home Assistant Apps
